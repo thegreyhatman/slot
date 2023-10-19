@@ -92,7 +92,8 @@ Execute the program using runserver command.
 </html>
 
 ## OUTPUT
-![Slot SS](https://github.com/thegreyhatman/slot/assets/136783487/3a3f679c-4041-4851-b8c1-c2233b967081)
+
+![dhanush out](https://github.com/thegreyhatman/slot/assets/136783487/4cc30ba8-3e42-43ab-9f42-953de0151139)
 
 
 ## HTML VALIDATOR
