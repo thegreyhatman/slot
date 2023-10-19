@@ -1,6 +1,6 @@
-Date: 19.10.2023
 
 # Ex03 Time Table
+Date: 19.10.2023
 
 ## AIM
 To write a html webpage page to display your slot timetable.
@@ -94,9 +94,6 @@ Execute the program using runserver command.
 ## OUTPUT
 
 ![dhanush out](https://github.com/thegreyhatman/slot/assets/136783487/4cc30ba8-3e42-43ab-9f42-953de0151139)
-
-
-## HTML VALIDATOR
 
 
 ## RESULT
